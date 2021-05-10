@@ -51,7 +51,7 @@ class EditorChoice {
 List<Post> topStories = [
   Post(
     imageUrlInit:
-        "https://temalguemassistindo.com.br/wp-content/uploads/2021/03/WandaVision-9.jpg",
+        "https://ovicio.com.br/wp-content/uploads/2021/03/20210314-scarlet-witch-wandavision-1024x562.png",
     imageUrl:
         "https://rollingstone.uol.com.br/media/_versions/wandavision-poster-header_1_widelg.jpg",
     time: 10,
@@ -133,8 +133,7 @@ List<Post> moreTopStories = [
 List<Articles> topArticles = [
   Articles(
     name: 'Fonte CanalTech',
-    imageUrl:
-        "https://correiopaulista.com/wp-content/uploads/2020/08/netflix.jpg",
+    imageUrl: "https://img.youtube.com/vi/GV3HUDMQ-F8/hqdefault.jpg",
     time: 2,
     color: Color(0xff1b262c),
     title: "Lançamentos da\nNetflix",
